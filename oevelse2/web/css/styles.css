@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-11-2016, 22:27:52
+    Author     : Iwan
+*/
+
+body {
+    background-color:khaki;    
+}
+h1 {    
+    color:red;
+    text-align: center;    
+}
+
+#navneboksen {
+    background-color: #FFFFFF;
+    width:10%;
+    text-align:center;
+    margin:0 0 0 80%;
+    border: 5px solid red;
+    padding: 2px;
+}
+
+#tableDiv {    
+    width:70%;
+    margin:auto;    
+}
+
+table, th {
+    border: 5px double lightblue;
+    width:100%;    
+}
+
+td {
+    padding: 5px;
+    border: 2px solid blue;
+}
+
+#billedet {    
+    width:100%;
+}
+
+.hyperLink {    
+    color:dodgerblue;
+    text-decoration: none;
+}
+
+nav {
+    width:30%;
+    margin:auto;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    border: 5px black double;
+}
+
+p {    
+    width:30%;    
+    margin: auto;
+}
